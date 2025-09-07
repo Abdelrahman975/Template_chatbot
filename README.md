@@ -1,10 +1,10 @@
 # Template_chatbot
 
-Welcome to the Exab-AI project!
+Welcome to the Template_chatbot project!
 
 ## Description
 
-This is the main repository for the Exab-AI project. Add your project description here.
+This is the main repository for the Template_chatbot project. Add your project description here.
 
 ## Getting Started
 
@@ -36,4 +36,5 @@ Please read our contributing guidelines before submitting pull requests.
 ## License
 
 Add license information here.
+
 
