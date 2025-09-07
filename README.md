@@ -16,8 +16,8 @@ This is the main repository for the Template_chatbot project. Add your project d
 
 1. Clone the repository
 ```bash
-git clone https://Exab-Azure@dev.azure.com/Exab-Azure/Exab-Ai/_git/Exab-Ai
-cd Exab-Ai
+git clone https://github.com/Abdelrahman975/Template_chatbot.git
+cd Template_chatbot
 ```
 
 2. Install dependencies (update based on your tech stack)
@@ -36,5 +36,6 @@ Please read our contributing guidelines before submitting pull requests.
 ## License
 
 Add license information here.
+
 
 
